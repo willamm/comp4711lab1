@@ -1,3 +1,3 @@
-# comp4711lab1
+# Lab 1
 
-README for this repo.
+This repo demonstrates basic knowledge of PHP and Apache given the lab requirements.
